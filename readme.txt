@@ -1,0 +1,1 @@
+Repo for Nodeschool how-to-npm challenges
